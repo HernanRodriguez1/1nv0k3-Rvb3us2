@@ -34,3 +34,5 @@ https://kleenscan.com/scan_result/8e633c1847ea2aacf332de3d4eb0c121558253c6e264e9
 
 https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/as-rep-roasting-using-rubeus-and-hashcat
 https://pentestlab.blog/tag/rubeus/
+
+# !!! NO UPLOAD VIRUS TOTAL !!!
