@@ -1,6 +1,6 @@
 # 1nv0k3-Rvb3us2
 
-Build: mimikatz 1.4.2 (x64 x32) <br>
+Build: Rubeus 1.4.2 (x64 x32) <br>
 Tested: Microsoft Windows 11 Pro - 10.0.22000 N/D Compilación 22000
 
 ## Bypass Known Firms:
